@@ -27,8 +27,13 @@ figcaption {
   font-size: 15px; 
 }
 
+#details{
+  text-align: center;
+}
+
+
 #details > div{
   display: block;
   float: left;
-  text-align: center;
+  
 }
