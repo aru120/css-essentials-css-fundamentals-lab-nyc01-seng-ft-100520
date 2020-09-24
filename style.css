@@ -12,6 +12,10 @@ header{
   text-align: center;
 }
 
+#featured-property > p{
+  width: 800px;
+}
+
 nav > a{
   padding: 0px 10px;
   background-color: grey;
@@ -20,3 +24,4 @@ nav > a{
 figcaption {
   font-size: 15px; 
 }
+
